@@ -1,5 +1,32 @@
 [
     {
+        "collection": "neon-fugitive2",
+        "name": "NEON FUGITIVE2",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/1dbdcc6423d69bf45160e076d4d398ab.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xa057f00eed9c3563f89bee8c83cd457e5a067308",
+        "safelist_status": "not_requested",
+        "category": "art",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/neon-fugitive2",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xe35f9a01be6859c310eeb0ee37d130e2051fcc58",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
         "collection": "5-2-25",
         "name": "5/2/25",
         "description": "",
@@ -778,33 +805,6 @@
         "contracts": [
             {
                 "address": "0x4dcce8a1286a6b4174fed5e9e292ff73dd23def7",
-                "chain": "ethereum"
-            }
-        ]
-    },
-    {
-        "collection": "cozy-critter-club-1",
-        "name": "Cozy Critter Club",
-        "description": "The Cozy Critter Club is a heartwarming and whimsical NFT collection featuring charming animals dressed in cozy knitwear and colorful attire. Each critter embodies a unique blend of imagination and comfort, bringing playful personalities to life through vibrant colors and surreal designs. From bears in beanies to foxes in scarves, this collection offers a delightful escape into a world where nature meets fashion. Perfect for collectors seeking joy, creativity, and a touch of cozy magic in their digital art portfolios.",
-        "image_url": "https://i.seadn.io/s/raw/files/718a499fe76738f563b7e0b15282f45d.jpg?w=500&auto=format",
-        "banner_image_url": "",
-        "owner": "0xaa7d22cdcc54da2d6992b1227a0d855d19577755",
-        "safelist_status": "not_requested",
-        "category": "",
-        "is_disabled": false,
-        "is_nsfw": false,
-        "trait_offers_enabled": false,
-        "collection_offers_enabled": true,
-        "opensea_url": "https://opensea.io/collection/cozy-critter-club-1",
-        "project_url": "",
-        "wiki_url": "",
-        "discord_url": "",
-        "telegram_url": "",
-        "twitter_username": "",
-        "instagram_username": "",
-        "contracts": [
-            {
-                "address": "0xcb15f118ee6d80409ebd2a4445910fd858e35e71",
                 "chain": "ethereum"
             }
         ]
