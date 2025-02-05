@@ -1,0 +1,677 @@
+[
+    {
+        "collection": "faces-259",
+        "name": "Faces",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/ef6bd012bab02973f79a028d2a8d2cd8.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x76ff69b22a562b21ca6b886c031f6197f41739b8",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/faces-259",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xfba701040b93c57cecf633c4392bc1c5f3ae8cdd",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "galacticdragon",
+        "name": "GalacticDragon",
+        "description": "Draco, a cyberpunk dragon unlike any other. He is not just a guardian of the digital world\u2014he is a big dreamer with an extraordinary ambition: to become the first astronaut of his kind! \ud83c\udf0c\n\nWith shimmering blue scales, a fiery golden mohawk, and reflective sunglasses that mirror the beauty of the cosmos, Drake always gazes at the sky, dreaming of adventures among the stars. His sleek black leather jacket symbolizes courage and determination, while the glowing planets in the background hint that his dream is closer than ever to becoming a reality.\n\n\ud83d\ude80 A fearless explorer of the unknown\n\ud83c\udf0c Driven to break the boundaries of the galaxy\n\ud83d\udd25 An exclusive NFT for true visionaries\n\nAre you ready to add Draco to your collection and be part of his journey to the stars?",
+        "image_url": "https://i.seadn.io/s/raw/files/75048988a80f61f1cee1e8d241275d1e.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x4f3a319cd82c4ee41e9edbb8da9db53cc4f02dd6",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": true,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/galacticdragon",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x8cbd0183cb00d04df9705179459a9e3eb468d756",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "creation-of-humans",
+        "name": "Creation Of Humans",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/bdf8de98e57eba9164f28220c93c677b.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x0fb98664f1eb1aff43a3e79d6ac2ab98b5c8d106",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/creation-of-humans",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x4a5aa4bb11e3a63cf81b6f82a77487007f40b1a2",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "kekius-maximus-19",
+        "name": "Kekius Maximus",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/fb27127e8c0ea9644ea112044171ddbf.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x413e716f26b3c89c4c4a39135d9a500c66eaf0e6",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/kekius-maximus-19",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x4dcce8a1286a6b4174fed5e9e292ff73dd23def7",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "cozy-critter-club-1",
+        "name": "Cozy Critter Club",
+        "description": "The Cozy Critter Club is a heartwarming and whimsical NFT collection featuring charming animals dressed in cozy knitwear and colorful attire. Each critter embodies a unique blend of imagination and comfort, bringing playful personalities to life through vibrant colors and surreal designs. From bears in beanies to foxes in scarves, this collection offers a delightful escape into a world where nature meets fashion. Perfect for collectors seeking joy, creativity, and a touch of cozy magic in their digital art portfolios.",
+        "image_url": "https://i.seadn.io/s/raw/files/718a499fe76738f563b7e0b15282f45d.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xaa7d22cdcc54da2d6992b1227a0d855d19577755",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/cozy-critter-club-1",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xcb15f118ee6d80409ebd2a4445910fd858e35e71",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "quirky-cats-with-glasses",
+        "name": "Quirky Cats with Glasses!",
+        "description": "Quirky cats with glasses! These unique felines have all sorts of professions\u2014musicians, programmers, office workers, architects, even Santa Claus! What kind of lives do they lead?\n\nLimited to 10,000 designs. Find your favorite one!",
+        "image_url": "https://i.seadn.io/s/raw/files/cea98446a1d5a88325026d0c78018638.png?w=500&auto=format",
+        "banner_image_url": "https://i.seadn.io/s/primary-drops/0x9eaf8ae594544354fa066e8c9292e8ad6bf6a645/34276970:about:media:6456ad2f-06ee-40d3-a176-8a68ca542367.jpeg?w=500&auto=format",
+        "owner": "0x54893dcc2e1bd08de3dbf2fb59b74ecff59f2faa",
+        "safelist_status": "not_requested",
+        "category": "art",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/quirky-cats-with-glasses",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x9eaf8ae594544354fa066e8c9292e8ad6bf6a645",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "cozy-critter-club",
+        "name": "Cozy Critter Club",
+        "description": "The Cozy Critter Club is a heartwarming and whimsical NFT collection featuring charming animals dressed in cozy knitwear and colorful attire. Each critter embodies a unique blend of imagination and comfort, bringing playful personalities to life through vibrant colors and surreal designs. From bears in beanies to foxes in scarves, this collection offers a delightful escape into a world where nature meets fashion. Perfect for collectors seeking joy, creativity, and a touch of cozy magic in their digital art portfolios.",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0xaa7d22cdcc54da2d6992b1227a0d855d19577755",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/cozy-critter-club",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xbe9ced34c100b98b84bc35027b8c32dac9bd6ff0",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "cat-fantastiques",
+        "name": "cat fantastiques",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/0f7e92ad53f6b39f5d5eb722146c2410.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x0f89a204098659870ed7c5f459751ad7f248355c",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/cat-fantastiques",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xf9602a06ea70025592970246484d8bd900ecc00c",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "sum-blue-snake",
+        "name": "SuM_Blue Snake",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/f39fe97e716e04660b002acd09f1b529.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x3e98ee133e55fdbc1aceb03785d3db9e5fabd780",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/sum-blue-snake",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x07bae2ee5e6c11f88a510fd8c0ab07de4db523a2",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "kekius-maximus-18",
+        "name": "Kekius Maximus",
+        "description": "Kekius Maximus \u2013 A legendary meme that stands the test of time! \ud83c\udfdb\ufe0f\ud83d\udc38\n\nAn ultimate symbol of Kek culture and the power of the meme lords, Kekius Maximus embodies humor, resilience, and unstoppable virality on the blockchain. With a Roman crown and the spirit of a warrior, he is more than just a meme\u2014he is a beacon of faith in the power of the internet, decentralization, and free speech.",
+        "image_url": "https://i.seadn.io/s/raw/files/fb27127e8c0ea9644ea112044171ddbf.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x413e716f26b3c89c4c4a39135d9a500c66eaf0e6",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/kekius-maximus-18",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xf5cdb4efc9261e0e497701d91c1b5454e6488293",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "saifan-1",
+        "name": "Saifan",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0xe7440f7b9dfd1b309cbba135941361d2557cb68b",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/saifan-1",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x2519dbb258c57f65475232e9bfaba80ec2888058",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "ouroboros-coin-v1",
+        "name": "Ouroboros Coin V1",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/d46f6dd6c38564810fae9757026a6549.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x2c81d3e4a63142ec6bcdd05ccea53f4e96c5c80d",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/ouroboros-coin-v1",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x7ac8099510f5a41ff10c6cade4d2bf29259efb0b",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "cyber-girl-61",
+        "name": "Cyber girl",
+        "description": " I envisioned a cyber girl with a hammer, blending Japanese cartoon aesthetics with futuristic cyberpunk elements, highlighting her influence on technology and mythology.",
+        "image_url": "https://i.seadn.io/s/raw/files/3f50cb66bd5d41e9aefc05fa32fe5768.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x46c6c22ed2eec2e84cb8b25481436dbef7fcac2a",
+        "safelist_status": "not_requested",
+        "category": "art",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/cyber-girl-61",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xbfb940053dad675f6b65520f5d1223a526f6e30a",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "works-on-paper-3",
+        "name": "Works On Paper",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0x124ac65df63302698c38dcd7a4bbfb54944c8822",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/works-on-paper-3",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xe928c62ca8d4da268d9bf39a71edeea4133387d5",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "cat-manyyyy",
+        "name": "cat manyyyy",
+        "description": "Cr. MOONMELON&R-bell_ch\nA cute little cat who is happy with his own money.\n\n",
+        "image_url": "https://i.seadn.io/s/raw/files/1c38e19b0021d88d00dc597f7867d448.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xca293f17b2f810cdcd3356589eb9de7327caca5b",
+        "safelist_status": "not_requested",
+        "category": "art",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/cat-manyyyy",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xb30ba6e980352bc316e239bb120cf0bb75bd8a98",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "n0wife-eth",
+        "name": "n0wife.eth",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0x49325577e96c26760a27a408126af1eddd51bbe4",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/n0wife-eth",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x40a88a9ef59f40b5e289cb65df40927773bb25b8",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "procrasticat",
+        "name": "Procrasticat",
+        "description": "Procrasticat is an exclusive, limited-edition NFT art collection featuring only 50 unique pieces. Each cat was made with authentic procrastination in avoiding work and other major responsibilities in my life. Each Procrasticat is a one-of-a-kind creation, with variations in cat color, ear color, nose color, eye color, and background to ensure that no two are alike. With a maximum of just 50 Procrasticats in existence, this collection is a rare opportunity to own a piece of digital art that is both playful and unique. Don\u2019t miss your chance to be part of the Cryptocat community!\nPlatform: OpenSea \n",
+        "image_url": "https://raw.seadn.io/files/1a3fea31545e14ecb24827e2b906e6db.svg",
+        "banner_image_url": "",
+        "owner": "0xc92fbdbffb3d1347b0d66326e18f86402f99d55b",
+        "safelist_status": "not_requested",
+        "category": "art",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/procrasticat",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xea7c54c73ff516a522a73221b56802688ee14b88",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "ebul-collection",
+        "name": "$EBULL - Ethereum Is Good",
+        "description": "Inspired by Ethereum\u2019s revolutionary vision and unstoppable innovation, we proudly present Ethereum\u2019s Legacy ($EBULL) \u2013 the ultimate tribute to the blockchain that is reshaping the future.\n\nEthereum is not just a network; it is a story of decentralization, a movement of technological progress, and the foundation of a new digital era. From pioneering smart contracts to driving advancements in scalability, security, and sustainability, Ethereum continues to lead the way in blockchain technology.\n\nWith the rise of Layer 2 solutions, DeFi, NFTs, and beyond, Ethereum\u2019s influence is undeniable. It\u2019s more than just a cryptocurrency\u2014it\u2019s a global revolution, empowering developers, creators, and visionaries to build a decentralized world without limits.\n\n\ud83d\ude80 Ethereum isn\u2019t just good\u2014it\u2019s the future. $EBULL\n\n\ud83d\udc8e Don\u2019t just watch\u2014be a part of it. Hold $EBULL, hold the future. \ud83d\ude80\ud83d\udd25",
+        "image_url": "https://i.seadn.io/s/raw/files/5b8645693af90e2e72f7d7545ccefaf6.png?w=500&auto=format",
+        "banner_image_url": "https://i.seadn.io/s/primary-drops/0x83b9afefcde825c7f5f49acadd70184e176d4917/34276711:about:media:44ff767d-39ef-47dc-b7b6-3c9c321e32aa.png?w=500&auto=format",
+        "owner": "0x413e716f26b3c89c4c4a39135d9a500c66eaf0e6",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/ebul-collection",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x83b9afefcde825c7f5f49acadd70184e176d4917",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "grimreaperbrthers",
+        "name": "GrimReaperBrthers",
+        "description": "\"We're so cool, right?\" \nTheir style is inspired by various cultures. Please take a look at their fashion show, which has over 10,000 appearances. However, they are the Grim Reapers. Just don't look at their eyes, which are usually hidden...",
+        "image_url": "https://i.seadn.io/s/raw/files/a4625aa531c18990d82f086724b4fffb.png?w=500&auto=format",
+        "banner_image_url": "https://i.seadn.io/s/primary-drops/0x47b55b80fe5ed6999650e1dd57851eeb524119fa/34276600:about:media:4a7d0716-a4e2-419e-a7d1-e28401a93877.jpeg?w=500&auto=format",
+        "owner": "0x9545d7685c283789be22abd56d6c8a909c93181a",
+        "safelist_status": "not_requested",
+        "category": "pfps",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/grimreaperbrthers",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x47b55b80fe5ed6999650e1dd57851eeb524119fa",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "tahiti-abstract-nft",
+        "name": "Tahiti Abstract NFT",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/1d3ce703472595fb1cec7ab4413893e1.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x3993047bbc89920af12ac14dcdc342fa7a6c9429",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/tahiti-abstract-nft",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x04228d5ce6b7a8fcdf9b0c8651fe0a3a9b0b77fb",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "thetruth-4",
+        "name": "TheTruth",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/65c9bd082494ed8c3e87059d16a6adf0.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xd8b7dd562740e5aadc51671bc4637f807bf42556",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/thetruth-4",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xab90bf594a6d8b7c881beeb394c0757c1d1ca9c8",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "shiropon",
+        "name": "Shiropon",
+        "description": "\u3057\u308d\u307d\u3093\u3067\u3059\uff01\u307d\u3063\u3061\u3083\u308a\u4f53\u578b\u306e\u3086\u308b\u304b\u308f\u3044\u3044\u767d\u718a\u307f\u305f\u3044\u306a\u751f\u304d\u7269\u3067\u3059\u3002\n \u7740\u3050\u308b\u307f\u5927\u597d\u304d\uff01\u307f\u3093\u306a\u306b\u7652\u3057\u3092\u4e0e\u3048\u307e\u3059\u3002",
+        "image_url": "https://i.seadn.io/s/raw/files/cfb0f87f19d43e331b8ac9ab6f32b24d.png?w=500&auto=format",
+        "banner_image_url": "https://i.seadn.io/s/primary-drops/0xce1f85dfdbe3832de59a86c1ece9f8ea1e2665a0/34276551:about:media:ecaafa37-d841-4837-b9b6-43842341381c.png?w=500&auto=format",
+        "owner": "0x9b7e4ff1f2b191a155d9d89a1b68d17500c76c63",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/shiropon",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xce1f85dfdbe3832de59a86c1ece9f8ea1e2665a0",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "fantastic-video",
+        "name": "Fantastic Video",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/793745d2e91ccfb219b46d4bf5e92840.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x2d447d3570411ede12c402a36c3576b11e14beb3",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/fantastic-video",
+        "project_url": "https://www.tiktok.com/@ai.photo_studio",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xcc1f9d704769b2690c53d44bb48e5badc2161f1b",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "srab-2",
+        "name": "SRAB",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/448f1bb34819ec88324299a2fc171863.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x4d1b3dc5eda386366bce003bbcca3741904e9bd9",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/srab-2",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x78c4837bbaf607049b92ac3fd8bf1a5316ca8580",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "scoringe-photography",
+        "name": "Scoringe_Photography",
+        "description": "My photography ready to share NFTs for all!",
+        "image_url": "https://i.seadn.io/s/raw/files/64a699c611f1140138cab90a43af1b10.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x6b4178f2f2af33d12a3b35435ca5b94293ed4f64",
+        "safelist_status": "not_requested",
+        "category": "photography",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/scoringe-photography",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x2a6127ab9565b67c7e5e3d7843ee1e978b1b15b9",
+                "chain": "ethereum"
+            }
+        ]
+    }
+]

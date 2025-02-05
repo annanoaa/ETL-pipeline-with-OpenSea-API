@@ -1,0 +1,812 @@
+[
+    {
+        "collection": "nick-arts",
+        "name": "NICK Arts",
+        "description": "My NFT Collections",
+        "image_url": "https://i.seadn.io/s/raw/files/d7a2c0f269b01ca9a8b46389717f8b82.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x30e4a75b4afbff279c81277d61fa0f3c9f1609fc",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/nick-arts",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xa5493876c623f499f19e78025ba73133b72d92a2",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "daily-epochal-nft-collection-1",
+        "name": "Daily Epochal NFT Collection",
+        "description": "Daily Epochal NFT Collection is a unique digital archive that captures history in real time through AI-generated art. Every day, a new NFT is minted, visually representing key global events, cultural milestones, or significant moments. Each piece serves as a digital time capsule, preserving the world\u2019s evolution in an artistic and collectible form. The collection highlights the passage of time, transforming daily records into valuable assets for the future. With curated editions and rare historical highlights, Daily Epochal NFTs bridge the gap between technology, art, and history, offering collectors a chance to own and preserve iconic moments forever.",
+        "image_url": "https://i.seadn.io/s/raw/files/7ca5052fa5739fc83f5ceb0241e93e28.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xd8a8be9c9d221fce27603b602bdfa1f1d05e59d7",
+        "safelist_status": "not_requested",
+        "category": "art",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/daily-epochal-nft-collection-1",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x2029f3e29588604b74866f83254038472e08f106",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "thetruth-3",
+        "name": "TheTruth",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/abec9efb79895bdb28772f15b83d55f8.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xd8b7dd562740e5aadc51671bc4637f807bf42556",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/thetruth-3",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xabbc63b6b31d7018dc8697eac6abc5c8743fcfa7",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "twinkle-toes-3",
+        "name": "Twinkle Toes",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0xa45e0c8ddd4e37fc16ef72ceb7567a31a71e125b",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/twinkle-toes-3",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x2066fd199c44c7849350ef6bba021719c358c695",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "daily-epochal-nft-collection",
+        "name": "Daily Epochal NFT Collection",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0xd8a8be9c9d221fce27603b602bdfa1f1d05e59d7",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/daily-epochal-nft-collection",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x12fd38c13d0d7624df43f06f2c716071839d771b",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "editions-by-doba",
+        "name": "Editions by DOBA",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/db97b25d3865630ecad1b3fd9da4e284.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x3b7a04c525e27b205115b460c3cec13f15ae3b48",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/editions-by-doba",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x34fd4c9a318e76337a5b20d04500ae57c12ec8e1",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "arc15crypto-in-2021-1",
+        "name": "ARC15CRYPTO in 2021",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0x939e52f0d80b21d33889e1af795c504db417edc3",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/arc15crypto-in-2021-1",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xf510d84566bc9c530ef5fa3ac0e98aa6e3a218f7",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "twinkle-toes-2",
+        "name": "Twinkle Toes",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0xa45e0c8ddd4e37fc16ef72ceb7567a31a71e125b",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/twinkle-toes-2",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x6f9cc64ac8299638be79fdf570e0cee554bec580",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "arc15crypto-in-2021",
+        "name": "ARC15CRYPTO in 2021",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0x939e52f0d80b21d33889e1af795c504db417edc3",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/arc15crypto-in-2021",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xf66cee58b1349eb05f17fb140c5331cfe79d20bf",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "twinkle-toes-1",
+        "name": "Twinkle Toes",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0xa45e0c8ddd4e37fc16ef72ceb7567a31a71e125b",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/twinkle-toes-1",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x73652aa4837b6aa498968432566f278246101291",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-58",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-58",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xd69e5a0f61dc4ebd560ca225be5bceb1e6f7cfa2",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-57",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-57",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x8e387c90c1068df91ae90e33664848ea8ca404cc",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-56",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-56",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x8647c043d48641ad9845d1462f708d8e3d39afba",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-55",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-55",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x29d5352efa55725eae5ccbcdee4e5713aac3f129",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-54",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-54",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xc369c45fbd828d61b1790902c583e3fe39740355",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-53",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-53",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x1650b8d6447bfcac3e20c57e3460dd6278faef5f",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-52",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-52",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x2192d8d6198e03524a313d74ec6f983a8e8416ba",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-51",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-51",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xe47af2d499ecd0281bc480e55c9ca49e432f216f",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-50",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-50",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xdb267a91c04a28a2a034ec4d6a751a60b62519b1",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-49",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-49",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xf3ee7a62138d3fa66c39eca7264d2fdf35907a0e",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-48",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-48",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x689dd4c9b458a3d27cb281af3b7b38c5e5da9ec6",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-47",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-47",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x36cc5991e36d257026143fc993d143280fdf200b",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-46",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-46",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xdd45a3cfe32cc1b46a3ef3b6f1cfec7472b9f9af",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-45",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-45",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x246fda744dc574b1a0d8bc1e7b1ce86eef08ddfc",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-44",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-44",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x7d65a29a00ffc6f981b8190e93c919e18d3c48bc",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-43",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-43",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xbb63f13cdae43ae89665bb2c2273473426e21928",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-42",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-42",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x67596c2dabcc5343bd70750e2abd3f3817a85306",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-41",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-41",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xce6564b02796495782cbf41de446060a03ab8c30",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-40",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-40",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xf3ab833640d019b536917283f361b8bb9f399bba",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "visit-pepefinance-net-to-claim-rewards-39",
+        "name": "Visit pepefinance.net to claim rewards",
+        "description": "Visit pepefinance.net to claim rewards",
+        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-39",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x5697362025566f41070f3afb2293864d25de2222",
+                "chain": "ethereum"
+            }
+        ]
+    }
+]

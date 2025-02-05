@@ -1,0 +1,812 @@
+[
+    {
+        "collection": "5-2-25",
+        "name": "5/2/25",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/a1896529f3d858de0b413a17119d57f3.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x04d914762a072f02fbb10e8a7e64a5c2bdddfd22",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/5-2-25",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xb4dc0965c6b1040130e27913c2236b625646c51b",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "greek-phonk-psychedelia",
+        "name": "Greek Phonk Psychedelia",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/c24acdf399cfd2cdf898872aeb7fac0c.webp?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x27e3e2aed0eec22e1073ccec06ae847e2b7928ce",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/greek-phonk-psychedelia",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x988b1ff257ad643d2755325fd9614a0b78af7d57",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "neon-akira",
+        "name": "NEON FUGITIVE",
+        "description": "\u5de8\u5927\u4f01\u696d\u304c\u7ba1\u7406\u3059\u308b\u8fd1\u672a\u6765\u90fd\u5e02 \u201cNeo-Tokyo 2099\u201d \u3092\u821e\u53f0\u306b\u3001AI\u306b\u3088\u3063\u3066\u6539\u9020\u3055\u308c\u305f\u4eba\u9593\u300c\u30b7\u30f3\u30bb\u30c6\u30a3\u30c3\u30af\u300d\u304c\u3001\u4eba\u6a29\u3092\u6c42\u3081\u3066\u53cd\u4e71\u3092\u8d77\u3053\u3059\u3002\n\u4f01\u696d\u304b\u3089\u8131\u8d70\u3057\u305f\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u306e\u30b7\u30f3\u30bb\u30c6\u30a3\u30c3\u30af\u306f\u3001\u4f01\u696d\u306e\u30c9\u30ed\u30fc\u30f3\u90e8\u968a\u3084\u30cf\u30f3\u30bf\u30fc\u306b\u8ffd\u308f\u308c\u306a\u304c\u3089\u3001\u81ea\u7531\u3092\u6c42\u3081\u3066\u305d\u308c\u305e\u308c\u304c\u904e\u53bb\u3092\u80cc\u8ca0\u3044\u306a\u304c\u3089\u3082\u81ea\u7531\u3092\u6c42\u3081\u3066\u6226\u3046\u7269\u8a9e \u3092\u63cf\u304fNFT\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "image_url": "https://i.seadn.io/s/raw/files/2088f8c1805a0752f31db967487e0e0b.png?w=500&auto=format",
+        "banner_image_url": "https://i.seadn.io/s/primary-drops/0xcd09d04f37f0f0f635eb6abd46a836ec7dcae4a6/34277688:about:media:ee6c0033-bf39-40d5-b84b-95b147661641.jpeg?w=500&auto=format",
+        "owner": "0xa057f00eed9c3563f89bee8c83cd457e5a067308",
+        "safelist_status": "not_requested",
+        "category": "art",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/neon-akira",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xcd09d04f37f0f0f635eb6abd46a836ec7dcae4a6",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "fashion-photography-6",
+        "name": "Fashion Photography",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/42946856c4d0250df0e0ef9c04a64d33.webp?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xd60c5362a4acffd404eb9cadf47de72404a63088",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/fashion-photography-6",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x36bfe0610ed096f1c093ff1a24fb030aa843ce10",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "wild-west-outlaws-chiefs",
+        "name": "Wild West Outlaws & Chiefs",
+        "description": "Take a step back into the future as we take you on a journey through the Wild West's stoicism in the eyes of the Outlaws & Chiefs of the Wild West through the mind of an SWAIA Indian Market Award Winning Native American Artist Natay \"Taynk\" Carroll.",
+        "image_url": "https://i.seadn.io/s/raw/files/1e990498dadb03c80bc35d8f57f04f39.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x2c831ce085054b78cb98aaff1bd9fef1f35e0d44",
+        "safelist_status": "not_requested",
+        "category": "art",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/wild-west-outlaws-chiefs",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xf1907e2edfe24c16e6a51fb6691c8814615dcf2f",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "unique-portrait-artistry",
+        "name": "Unique Portrait Artistry",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/3167425f2ccca86eaa7f99b079a2f790.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xdc1803ea183e96e1523a8aad751b7a4d152c041f",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/unique-portrait-artistry",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x9497243647022138f273b9348d727403d2e83423",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "yo99-r",
+        "name": "YO99-R \"Skyrunner\"",
+        "description": "A masterwork of agile engineering, YO99-R emerges as a standout in the YO99 collection. This striking burgundy and silver synthetic warrior captures the essence of dynamic motion in its design:\nSleek burgundy primary chassis with silver joint armor\nDistinctive pointed helm featuring neon-green sensor arrays\nInnovative floating joint technology enabling impossible acrobatics\nSignature \"YO99\" branding integrated into the torso plating\nBio-mechanical hand structures suggesting enhanced dexterity\nThe character's design language speaks to a perfect fusion of form and function, with its mid-leap pose demonstrating the peak of artificial agility. The color palette of deep burgundy, metallic silver, and accent neon green creates a distinct visual identity that would translate beautifully in both static and animated presentations.",
+        "image_url": "https://i.seadn.io/s/raw/files/8969ae8cecc748b257525c60b02e9678.png?w=500&auto=format",
+        "banner_image_url": "https://stream.mux.com/J6ZsrGMi00rHd2KBP6nIHjCeM300eYKAtfHMgKJmUTNsk/high.mp4",
+        "owner": "0xdb6b81c51440f9c3c212e7b509cc20c20fe35dbf",
+        "safelist_status": "not_requested",
+        "category": "virtual-worlds",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/yo99-r",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xfae2ccb730fd7c8e5ffa7b642e089f3db2bb6abb",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "legendpicasso",
+        "name": "Legend \"Pablo Picasso\"",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/c5397754392ecd70dde13d53621d2c15.gif?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xc3c9fdee83ad8c7b29b5ce2c6b8d19fa116c0e74",
+        "safelist_status": "approved",
+        "category": "art",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/legendpicasso",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x237fd1ba3a5843f86c32d4ec20f46837540fc3da",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "sunny-day-31",
+        "name": "Sunny day",
+        "description": "Sunny day\n\nMade with [NFTs2Me.com](https://nfts2me.com/)",
+        "image_url": "https://i.seadn.io/s/raw/files/24efe17e177888253b87af4748e181c1.png?w=500&auto=format",
+        "banner_image_url": "https://i.seadn.io/s/raw/files/24efe17e177888253b87af4748e181c1.png?w=500&auto=format",
+        "owner": "0xe25ebb91da142b2adcd60fd6e130c11224416986",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/sunny-day-31",
+        "project_url": "https://0x40F8be04C710C6E22faCA469Df0B6b46054CD2B9.nfts2.me/",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x40f8be04c710c6e22faca469df0b6b46054cd2b9",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "luckyrabbits-1",
+        "name": "LuckyRabbits",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/7ece37b51dd1fbaa85d087c4787a8427.png?w=500&auto=format",
+        "banner_image_url": "https://i.seadn.io/s/primary-drops/0xc9ef325d7e5fa72db68976689af99c5817298242/34277465:about:media:1669bb13-17bd-442d-9336-550edd01e2d8.png?w=500&auto=format",
+        "owner": "0x0d6b59092cb643b5157253b7756cc5caac84ccec",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/luckyrabbits-1",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xc9ef325d7e5fa72db68976689af99c5817298242",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "differentbottlelamp-3",
+        "name": "DifferentBottleLamp",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0x6d0ff9e968bba64f903e0685109d6ec653df00b6",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/differentbottlelamp-3",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xb30471e01ddbbde28c8c4970145ba96e1f1073b3",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "differentbottlelamp-2",
+        "name": "DifferentBottleLamp",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0x6d0ff9e968bba64f903e0685109d6ec653df00b6",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/differentbottlelamp-2",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xe269171e5f7e8b71116559f50b1135b956f18d2e",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "differentbottlelamp-1",
+        "name": "DifferentBottleLamp",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0x6d0ff9e968bba64f903e0685109d6ec653df00b6",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/differentbottlelamp-1",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xd175b2fa774a87e42da8c313350f615d805122cb",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "differentbottlelamp",
+        "name": "DifferentBottleLamp",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0x6d0ff9e968bba64f903e0685109d6ec653df00b6",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/differentbottlelamp",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xad6b2702318de84881aea28c7abf67dbe50c71e9",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "inex360",
+        "name": "InEx360",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0x6b8e9fb6aff8ceb76693d2d9c5d636d7b5884bdf",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/inex360",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xd3b235a5d97c8629bbcd9a5d5a7aece1fe82c1f9",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "inex30",
+        "name": "InEx30",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0x6b8e9fb6aff8ceb76693d2d9c5d636d7b5884bdf",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/inex30",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x347aa931719b8fc39d7d198b31f747cb0e2851a6",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "rip-name",
+        "name": "Rip",
+        "description": "Rip is a unique tombstone with a specific motto and a specific sound clip to prove that you have been in this world before.",
+        "image_url": "https://i.seadn.io/s/raw/files/0ebbbb4da40cfaa9d61bdf1f83642272.jpg?w=500&auto=format",
+        "banner_image_url": "https://i.seadn.io/s/primary-drops/0x201bcb15a5c757f8c396e184f76f34e1d9e75044/34277305:about:media:79a52c8b-82cb-42b6-8700-26adb177a577.jpeg?w=500&auto=format",
+        "owner": "0xfaf89b07ecfd73fab0e5302c9c80a9995aa2790f",
+        "safelist_status": "not_requested",
+        "category": "music",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/rip-name",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x201bcb15a5c757f8c396e184f76f34e1d9e75044",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "brilliantcrypto-jewelry",
+        "name": "Brilliantcrypto Jewelry",
+        "description": "Enter the world of digital native, truly authentic NFT jewelry. This is the future of luxury, positioned perfectly for widespread adoption in metaverse worlds.\n\nBrilliantcrypto jewelry pieces utilize unique NFT gemstones from Brilliantcrypto's in-game mines.",
+        "image_url": "https://i.seadn.io/s/raw/files/c5f1cd43b3f950317b5060e98d3c75d2.png?w=500&auto=format",
+        "banner_image_url": "https://i.seadn.io/s/primary-drops/0xb0bc372ba30d36e92a39183b1ec02d50c5437b9a/34277271:about:media:7dd763d9-9b57-41a9-95b6-8ce903d96151.png?w=500&auto=format",
+        "owner": "0xaefceaee5e2b45d3ddbe2edd4893dbf055d34560",
+        "safelist_status": "not_requested",
+        "category": "virtual-worlds",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/brilliantcrypto-jewelry",
+        "project_url": "https://brilliantcrypto.net/lp/digital_jewelry/",
+        "wiki_url": "",
+        "discord_url": "https://discord.gg/brilliantcrypto",
+        "telegram_url": "",
+        "twitter_username": "Brypto_Official",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xb0bc372ba30d36e92a39183b1ec02d50c5437b9a",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "moscow-vibes-1",
+        "name": "Moscow Vibes",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/eea5d779f4f38473637c1cb5cb0cd95f.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x08ba1f4fafa1f6c17a5e87780e863bd3e065dd3e",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/moscow-vibes-1",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xea0590d2c06737464a0f80e176e2c8d5c8768d44",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "cozy-critters-collection",
+        "name": "Cozy Critters Collection",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0xaa7d22cdcc54da2d6992b1227a0d855d19577755",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/cozy-critters-collection",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xa2f19fc40af18b700e0895a7c1fdad26ce189f08",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "eternal-heritage",
+        "name": "Eternal Heritage",
+        "description": "In this unique collection, ancient art, culture, and traditions from around the world are brought to life in eye-catching 3D designs. From the stunning patterns of Persian carpets to the intricate designs of Islamic and Khattab, from ancient Egyptian carvings to Native American art\u2014each piece tells the story of a civilization.\n\nThese NFTs are not only a reflection of historical aesthetics, but also a bridge between the past and the future, where traditional art is immortalized in the digital world. Get ready to embark on an artistic journey, explore diverse cultural identities, and add a piece of this global heritage to your collection.\n\n\u2728 Timeless art in a modern world! \u2728",
+        "image_url": "https://i.seadn.io/s/raw/files/4b424c8944c6298dc7aa415c87fc15a0.webp?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xbd83894857beb43832b8fa9f967c5a069a5dd04f",
+        "safelist_status": "not_requested",
+        "category": "art",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/eternal-heritage",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x080c066fc3b83fdb7383bda6b5e7e71f36f0bae1",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "ukiyoe-rm",
+        "name": "Ukiyoe Remix",
+        "description": "The ancient Japanese idea of \u200b\u200bliving in harmony with nature and people has been forgotten in today's materialistic society.\nI envision my ukiyo-e-style drawings as an opportunity to ``realize the importance of the spirit.''\n\nUkiyo-e is a work of art that depicts daily life in the woodblock prints and paintings that were popular during the Edo period 260 years ago.\nIt is the world's first pop art that can be enjoyed by ordinary people.\n\nI want to convey the diverse and deep charm of Japanese culture through pictures and change the world into happiness.",
+        "image_url": "https://i.seadn.io/s/raw/files/30195456492dfd212937388af7026eee.png?w=500&auto=format",
+        "banner_image_url": "https://i.seadn.io/s/primary-drops/0xa1c9db9ae0857c8da9e27c56dba39dce887e7a6a/34277120:about:media:1b6cb879-37d9-496f-9a11-bf4c311b6664.png?w=500&auto=format",
+        "owner": "0x3316ed42286b8943e376e64798525523b36affb3",
+        "safelist_status": "not_requested",
+        "category": "pfps",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/ukiyoe-rm",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "YaeEshiro",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xa1c9db9ae0857c8da9e27c56dba39dce887e7a6a",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "some-canvas-art",
+        "name": "Some Canvas Art",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/8647a24014226f7f8a264c02b31a9448.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x1e309daaf844f01122da1f855828781ea1dd855d",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/some-canvas-art",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x9bfbb1c93dbb7cb47ff0f9bd3ee91f0f9ade3d9d",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "postcards-from-everywhere",
+        "name": "Postcards from Everywhere",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0x763ab15f0398e32068800a1c118cf2b2efdd3af4",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/postcards-from-everywhere",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x20282ced174e09ce1091b3febde35c209c021710",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "harmony-series",
+        "name": "Harmony Series",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/8de313721b8396a45a133731feba5125.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xdd3fa26a891d6a62f27a70087df25b839efb38d2",
+        "safelist_status": "not_requested",
+        "category": "art",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/harmony-series",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x2ac5ec614c7ae42ecb7a14070307e39a97a9d79c",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "faces-259",
+        "name": "Faces",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/ef6bd012bab02973f79a028d2a8d2cd8.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x76ff69b22a562b21ca6b886c031f6197f41739b8",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/faces-259",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xfba701040b93c57cecf633c4392bc1c5f3ae8cdd",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "galacticdragon",
+        "name": "GalacticDragon",
+        "description": "Draco, a cyberpunk dragon unlike any other. He is not just a guardian of the digital world\u2014he is a big dreamer with an extraordinary ambition: to become the first astronaut of his kind! \ud83c\udf0c\n\nWith shimmering blue scales, a fiery golden mohawk, and reflective sunglasses that mirror the beauty of the cosmos, Drake always gazes at the sky, dreaming of adventures among the stars. His sleek black leather jacket symbolizes courage and determination, while the glowing planets in the background hint that his dream is closer than ever to becoming a reality.\n\n\ud83d\ude80 A fearless explorer of the unknown\n\ud83c\udf0c Driven to break the boundaries of the galaxy\n\ud83d\udd25 An exclusive NFT for true visionaries\n\nAre you ready to add Draco to your collection and be part of his journey to the stars?",
+        "image_url": "https://i.seadn.io/s/raw/files/75048988a80f61f1cee1e8d241275d1e.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x4f3a319cd82c4ee41e9edbb8da9db53cc4f02dd6",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": true,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/galacticdragon",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x8cbd0183cb00d04df9705179459a9e3eb468d756",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "creation-of-humans",
+        "name": "Creation Of Humans",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/bdf8de98e57eba9164f28220c93c677b.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x0fb98664f1eb1aff43a3e79d6ac2ab98b5c8d106",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/creation-of-humans",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x4a5aa4bb11e3a63cf81b6f82a77487007f40b1a2",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "kekius-maximus-19",
+        "name": "Kekius Maximus",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/fb27127e8c0ea9644ea112044171ddbf.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x413e716f26b3c89c4c4a39135d9a500c66eaf0e6",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/kekius-maximus-19",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x4dcce8a1286a6b4174fed5e9e292ff73dd23def7",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "cozy-critter-club-1",
+        "name": "Cozy Critter Club",
+        "description": "The Cozy Critter Club is a heartwarming and whimsical NFT collection featuring charming animals dressed in cozy knitwear and colorful attire. Each critter embodies a unique blend of imagination and comfort, bringing playful personalities to life through vibrant colors and surreal designs. From bears in beanies to foxes in scarves, this collection offers a delightful escape into a world where nature meets fashion. Perfect for collectors seeking joy, creativity, and a touch of cozy magic in their digital art portfolios.",
+        "image_url": "https://i.seadn.io/s/raw/files/718a499fe76738f563b7e0b15282f45d.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xaa7d22cdcc54da2d6992b1227a0d855d19577755",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/cozy-critter-club-1",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xcb15f118ee6d80409ebd2a4445910fd858e35e71",
+                "chain": "ethereum"
+            }
+        ]
+    }
+]
