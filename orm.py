@@ -105,5 +105,46 @@ class Database:
         columns = [desc[0] for desc in cursor.description]
         return [dict(zip(columns, row)) for row in cursor.fetchall()]
 
+    def update(self, table_name: str, updates: Dict[str, Any], where: Optional[List[tuple]] = None) -> None:
+
+        update_clause = ', '.join([f"{col} = {self.param}" for col in updates.keys()])
+        params = list(updates.values())
+        sql = f"UPDATE {table_name} SET {update_clause}"
+        if where:
+            conditions = []
+            for condition in where:
+                col, op, val = condition
+                if op.upper() == 'IN':
+                    if not isinstance(val, (list, tuple)):
+                        raise ValueError("IN operator requires a list or tuple of values")
+                    placeholders = ', '.join([self.param] * len(val))
+                    conditions.append(f"{col} IN ({placeholders})")
+                    params.extend(val)
+                else:
+                    conditions.append(f"{col} {op} {self.param}")
+                    params.append(val)
+            sql += " WHERE " + " AND ".join(conditions)
+        self.execute(sql, params)
+
+    def delete(self, table_name: str, where: Optional[List[tuple]] = None) -> None:
+
+        sql = f"DELETE FROM {table_name}"
+        params = []
+        if where:
+            conditions = []
+            for condition in where:
+                col, op, val = condition
+                if op.upper() == 'IN':
+                    if not isinstance(val, (list, tuple)):
+                        raise ValueError("IN operator requires a list or tuple of values")
+                    placeholders = ', '.join([self.param] * len(val))
+                    conditions.append(f"{col} IN ({placeholders})")
+                    params.extend(val)
+                else:
+                    conditions.append(f"{col} {op} {self.param}")
+                    params.append(val)
+            sql += " WHERE " + " AND ".join(conditions)
+        self.execute(sql, params)
+
     def close(self) -> None:
         self.conn.close()
