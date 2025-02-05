@@ -1,5 +1,86 @@
 [
     {
+        "collection": "drip-drop-studio-1",
+        "name": "Drip Drop Studio",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0xa45e0c8ddd4e37fc16ef72ceb7567a31a71e125b",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/drip-drop-studio-1",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x99dd863994e276e11a6c0fb7bee74317069970e7",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "trump-train-for-the-win",
+        "name": "Trump Train For The Win",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0xfb0c605120844b7e858d7b8024ffcd5fefb32d30",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/trump-train-for-the-win",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x3408743d76008da97a44a1afba8e474ecef69582",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "cosmic-migraine-1",
+        "name": "BONUS NFT [Cosmic Migraine collection] The Last Laugh",
+        "description": "You\u2019ve done it! After all the board meetings, court appearances, and endless galactic chaos, someone has finally stolen your crown! You\u2019re free! Free to live a life without scepters or star charts\u2014assuming you can outrun the hordes of aliens who aren\u2019t exactly thrilled about your abdication.\n\u201cThe Last Laugh\u201d is the ultimate bonus piece, available only to collectors who hold all four works in the \u201cCosmic Migraine\u201d collection. Because in the end, the galaxy always has the last laugh.\n",
+        "image_url": "https://i.seadn.io/s/raw/files/8e01d1251cedae67fc22bc0605dfb397.gif?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xb28077284a81b23bf4709ac326accb8142662cff",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/cosmic-migraine-1",
+        "project_url": "https://orangehare.io/",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "OrangeHare_io",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x1cc4f9dc34a15fa6542e3bc84ed500243b3a4735",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
         "collection": "drip-drop-studio",
         "name": "Drip Drop Studio",
         "description": "",
@@ -724,87 +805,6 @@
         "contracts": [
             {
                 "address": "0xbb63f13cdae43ae89665bb2c2273473426e21928",
-                "chain": "ethereum"
-            }
-        ]
-    },
-    {
-        "collection": "visit-pepefinance-net-to-claim-rewards-42",
-        "name": "Visit pepefinance.net to claim rewards",
-        "description": "Visit pepefinance.net to claim rewards",
-        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
-        "banner_image_url": "",
-        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
-        "safelist_status": "not_requested",
-        "category": "",
-        "is_disabled": false,
-        "is_nsfw": false,
-        "trait_offers_enabled": false,
-        "collection_offers_enabled": true,
-        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-42",
-        "project_url": "",
-        "wiki_url": "",
-        "discord_url": "",
-        "telegram_url": "",
-        "twitter_username": "",
-        "instagram_username": "",
-        "contracts": [
-            {
-                "address": "0x67596c2dabcc5343bd70750e2abd3f3817a85306",
-                "chain": "ethereum"
-            }
-        ]
-    },
-    {
-        "collection": "visit-pepefinance-net-to-claim-rewards-41",
-        "name": "Visit pepefinance.net to claim rewards",
-        "description": "Visit pepefinance.net to claim rewards",
-        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
-        "banner_image_url": "",
-        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
-        "safelist_status": "not_requested",
-        "category": "",
-        "is_disabled": false,
-        "is_nsfw": false,
-        "trait_offers_enabled": false,
-        "collection_offers_enabled": true,
-        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-41",
-        "project_url": "",
-        "wiki_url": "",
-        "discord_url": "",
-        "telegram_url": "",
-        "twitter_username": "",
-        "instagram_username": "",
-        "contracts": [
-            {
-                "address": "0xce6564b02796495782cbf41de446060a03ab8c30",
-                "chain": "ethereum"
-            }
-        ]
-    },
-    {
-        "collection": "visit-pepefinance-net-to-claim-rewards-40",
-        "name": "Visit pepefinance.net to claim rewards",
-        "description": "Visit pepefinance.net to claim rewards",
-        "image_url": "https://i.seadn.io/s/raw/files/5e6f9e545a6b32a3daa33c3ad263e898.png?w=500&auto=format",
-        "banner_image_url": "",
-        "owner": "0x1ec53f4e908079d7cd26036dad316237cd5cf872",
-        "safelist_status": "not_requested",
-        "category": "",
-        "is_disabled": false,
-        "is_nsfw": false,
-        "trait_offers_enabled": false,
-        "collection_offers_enabled": true,
-        "opensea_url": "https://opensea.io/collection/visit-pepefinance-net-to-claim-rewards-40",
-        "project_url": "",
-        "wiki_url": "",
-        "discord_url": "",
-        "telegram_url": "",
-        "twitter_username": "",
-        "instagram_username": "",
-        "contracts": [
-            {
-                "address": "0xf3ab833640d019b536917283f361b8bb9f399bba",
                 "chain": "ethereum"
             }
         ]

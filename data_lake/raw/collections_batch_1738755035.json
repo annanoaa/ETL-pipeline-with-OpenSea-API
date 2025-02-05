@@ -1,8 +1,170 @@
 [
     {
+        "collection": "raphael-9",
+        "name": "Raphael",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/3a82ace4481ada30a4ca6c5e1e0e09db.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xb120d1630497f1a58b2667532c9a4f7b9a803c13",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/raphael-9",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x1f5d218c4b96d895fe18c868352c6b5542233d44",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "trading-titans-global-power-moves",
+        "name": "TRADING TITANS: Global Power Moves",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/626e5d416e19b1428910d9b92a666cb8.webp?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xf8a045d04a52787091f9e54abc51ff35d6976eaf",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/trading-titans-global-power-moves",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xeee60c83312e29de4aa0e1ab4d17d0b555abc9d5",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "fomo-fud-ai-bloopers",
+        "name": "FOMO-FUD: AI Bloopers",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/fb2675c3f6347227fcfdfe17fb2e2753.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x0450e194c00c83ef98568198a168a4106d11bafb",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/fomo-fud-ai-bloopers",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x0970e50a4dd19fd5de1316ca31932e1ab849cdf9",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "bridge-connects-destnation",
+        "name": "Bridge connects destnation",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0xc6e83a788c40aeb1dd6556e3c5aa8186faef8e6c",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/bridge-connects-destnation",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x1c8f1ec26f89be88d1d2601b687b4bf4d419f2b9",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "opulous-finance-1",
+        "name": "Opulous Finance",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/077df02ac61ab38856ee171245c5d31d.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0xbee03d6a6d56a88b6db7714c88f890b4a2375073",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/opulous-finance-1",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0xa4fdf24b2e2288dd31bdd13047ea2ab4798853f5",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "childhood-february-2025",
+        "name": "Childhood February 2025",
+        "description": "",
+        "image_url": "",
+        "banner_image_url": "",
+        "owner": "0xa922ff660cb0b66f28d084bf6e3d95adbb993853",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": false,
+        "opensea_url": "https://opensea.io/collection/childhood-february-2025",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x3d46afc846707929aee4b21a873f07f9f28fab8b",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
         "collection": "neon-fugitive2",
         "name": "NEON FUGITIVE2",
-        "description": "",
+        "description": "\u5de8\u5927\u4f01\u696d\u304c\u7ba1\u7406\u3059\u308b\u8fd1\u672a\u6765\u90fd\u5e02 \u201cNeo-Tokyo 2099\u201d \u3092\u821e\u53f0\u306b\u3001AI\u306b\u3088\u3063\u3066\u6539\u9020\u3055\u308c\u305f\u4eba\u9593\u300c\u30b7\u30f3\u30bb\u30c6\u30a3\u30c3\u30af\u300d\u304c\u3001\u4eba\u6a29\u3092\u6c42\u3081\u3066\u53cd\u4e71\u3092\u8d77\u3053\u3059\u3002\n\u4f01\u696d\u304b\u3089\u8131\u8d70\u3057\u305f\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u306e\u30b7\u30f3\u30bb\u30c6\u30a3\u30c3\u30af\u306f\u3001\u4f01\u696d\u306e\u30c9\u30ed\u30fc\u30f3\u90e8\u968a\u3084\u30cf\u30f3\u30bf\u30fc\u306b\u8ffd\u308f\u308c\u306a\u304c\u3089\u3001\u81ea\u7531\u3092\u6c42\u3081\u3066\u305d\u308c\u305e\u308c\u304c\u904e\u53bb\u3092\u80cc\u8ca0\u3044\u306a\u304c\u3089\u3082\u81ea\u7531\u3092\u6c42\u3081\u3066\u6226\u3046\u7269\u8a9e \u3092\u63cf\u304fNFT\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
         "image_url": "https://i.seadn.io/s/raw/files/1dbdcc6423d69bf45160e076d4d398ab.jpg?w=500&auto=format",
         "banner_image_url": "",
         "owner": "0xa057f00eed9c3563f89bee8c83cd457e5a067308",
@@ -11,7 +173,7 @@
         "is_disabled": false,
         "is_nsfw": false,
         "trait_offers_enabled": false,
-        "collection_offers_enabled": false,
+        "collection_offers_enabled": true,
         "opensea_url": "https://opensea.io/collection/neon-fugitive2",
         "project_url": "",
         "wiki_url": "",
@@ -92,7 +254,7 @@
         "is_disabled": false,
         "is_nsfw": false,
         "trait_offers_enabled": false,
-        "collection_offers_enabled": false,
+        "collection_offers_enabled": true,
         "opensea_url": "https://opensea.io/collection/neon-akira",
         "project_url": "",
         "wiki_url": "",
@@ -297,99 +459,18 @@
         ]
     },
     {
-        "collection": "differentbottlelamp-3",
-        "name": "DifferentBottleLamp",
-        "description": "",
-        "image_url": "",
-        "banner_image_url": "",
-        "owner": "0x6d0ff9e968bba64f903e0685109d6ec653df00b6",
-        "safelist_status": "not_requested",
-        "category": "",
-        "is_disabled": false,
-        "is_nsfw": false,
-        "trait_offers_enabled": false,
-        "collection_offers_enabled": false,
-        "opensea_url": "https://opensea.io/collection/differentbottlelamp-3",
-        "project_url": "",
-        "wiki_url": "",
-        "discord_url": "",
-        "telegram_url": "",
-        "twitter_username": "",
-        "instagram_username": "",
-        "contracts": [
-            {
-                "address": "0xb30471e01ddbbde28c8c4970145ba96e1f1073b3",
-                "chain": "ethereum"
-            }
-        ]
-    },
-    {
-        "collection": "differentbottlelamp-2",
-        "name": "DifferentBottleLamp",
-        "description": "",
-        "image_url": "",
-        "banner_image_url": "",
-        "owner": "0x6d0ff9e968bba64f903e0685109d6ec653df00b6",
-        "safelist_status": "not_requested",
-        "category": "",
-        "is_disabled": false,
-        "is_nsfw": false,
-        "trait_offers_enabled": false,
-        "collection_offers_enabled": false,
-        "opensea_url": "https://opensea.io/collection/differentbottlelamp-2",
-        "project_url": "",
-        "wiki_url": "",
-        "discord_url": "",
-        "telegram_url": "",
-        "twitter_username": "",
-        "instagram_username": "",
-        "contracts": [
-            {
-                "address": "0xe269171e5f7e8b71116559f50b1135b956f18d2e",
-                "chain": "ethereum"
-            }
-        ]
-    },
-    {
-        "collection": "differentbottlelamp-1",
-        "name": "DifferentBottleLamp",
-        "description": "",
-        "image_url": "",
-        "banner_image_url": "",
-        "owner": "0x6d0ff9e968bba64f903e0685109d6ec653df00b6",
-        "safelist_status": "not_requested",
-        "category": "",
-        "is_disabled": false,
-        "is_nsfw": false,
-        "trait_offers_enabled": false,
-        "collection_offers_enabled": false,
-        "opensea_url": "https://opensea.io/collection/differentbottlelamp-1",
-        "project_url": "",
-        "wiki_url": "",
-        "discord_url": "",
-        "telegram_url": "",
-        "twitter_username": "",
-        "instagram_username": "",
-        "contracts": [
-            {
-                "address": "0xd175b2fa774a87e42da8c313350f615d805122cb",
-                "chain": "ethereum"
-            }
-        ]
-    },
-    {
         "collection": "differentbottlelamp",
         "name": "DifferentBottleLamp",
-        "description": "",
-        "image_url": "",
+        "description": "Picture of my production of bottle lamp ",
+        "image_url": "https://i.seadn.io/s/raw/files/20045155fe3e64c0c5777a69bfc1c0e7.jpg?w=500&auto=format",
         "banner_image_url": "",
         "owner": "0x6d0ff9e968bba64f903e0685109d6ec653df00b6",
         "safelist_status": "not_requested",
-        "category": "",
+        "category": "art",
         "is_disabled": false,
         "is_nsfw": false,
         "trait_offers_enabled": false,
-        "collection_offers_enabled": false,
+        "collection_offers_enabled": true,
         "opensea_url": "https://opensea.io/collection/differentbottlelamp",
         "project_url": "",
         "wiki_url": "",
@@ -724,87 +805,6 @@
         "contracts": [
             {
                 "address": "0xfba701040b93c57cecf633c4392bc1c5f3ae8cdd",
-                "chain": "ethereum"
-            }
-        ]
-    },
-    {
-        "collection": "galacticdragon",
-        "name": "GalacticDragon",
-        "description": "Draco, a cyberpunk dragon unlike any other. He is not just a guardian of the digital world\u2014he is a big dreamer with an extraordinary ambition: to become the first astronaut of his kind! \ud83c\udf0c\n\nWith shimmering blue scales, a fiery golden mohawk, and reflective sunglasses that mirror the beauty of the cosmos, Drake always gazes at the sky, dreaming of adventures among the stars. His sleek black leather jacket symbolizes courage and determination, while the glowing planets in the background hint that his dream is closer than ever to becoming a reality.\n\n\ud83d\ude80 A fearless explorer of the unknown\n\ud83c\udf0c Driven to break the boundaries of the galaxy\n\ud83d\udd25 An exclusive NFT for true visionaries\n\nAre you ready to add Draco to your collection and be part of his journey to the stars?",
-        "image_url": "https://i.seadn.io/s/raw/files/75048988a80f61f1cee1e8d241275d1e.jpg?w=500&auto=format",
-        "banner_image_url": "",
-        "owner": "0x4f3a319cd82c4ee41e9edbb8da9db53cc4f02dd6",
-        "safelist_status": "not_requested",
-        "category": "",
-        "is_disabled": false,
-        "is_nsfw": false,
-        "trait_offers_enabled": true,
-        "collection_offers_enabled": true,
-        "opensea_url": "https://opensea.io/collection/galacticdragon",
-        "project_url": "",
-        "wiki_url": "",
-        "discord_url": "",
-        "telegram_url": "",
-        "twitter_username": "",
-        "instagram_username": "",
-        "contracts": [
-            {
-                "address": "0x8cbd0183cb00d04df9705179459a9e3eb468d756",
-                "chain": "ethereum"
-            }
-        ]
-    },
-    {
-        "collection": "creation-of-humans",
-        "name": "Creation Of Humans",
-        "description": "",
-        "image_url": "https://i.seadn.io/s/raw/files/bdf8de98e57eba9164f28220c93c677b.png?w=500&auto=format",
-        "banner_image_url": "",
-        "owner": "0x0fb98664f1eb1aff43a3e79d6ac2ab98b5c8d106",
-        "safelist_status": "not_requested",
-        "category": "",
-        "is_disabled": false,
-        "is_nsfw": false,
-        "trait_offers_enabled": false,
-        "collection_offers_enabled": true,
-        "opensea_url": "https://opensea.io/collection/creation-of-humans",
-        "project_url": "",
-        "wiki_url": "",
-        "discord_url": "",
-        "telegram_url": "",
-        "twitter_username": "",
-        "instagram_username": "",
-        "contracts": [
-            {
-                "address": "0x4a5aa4bb11e3a63cf81b6f82a77487007f40b1a2",
-                "chain": "ethereum"
-            }
-        ]
-    },
-    {
-        "collection": "kekius-maximus-19",
-        "name": "Kekius Maximus",
-        "description": "",
-        "image_url": "https://i.seadn.io/s/raw/files/fb27127e8c0ea9644ea112044171ddbf.jpg?w=500&auto=format",
-        "banner_image_url": "",
-        "owner": "0x413e716f26b3c89c4c4a39135d9a500c66eaf0e6",
-        "safelist_status": "not_requested",
-        "category": "",
-        "is_disabled": false,
-        "is_nsfw": false,
-        "trait_offers_enabled": false,
-        "collection_offers_enabled": true,
-        "opensea_url": "https://opensea.io/collection/kekius-maximus-19",
-        "project_url": "",
-        "wiki_url": "",
-        "discord_url": "",
-        "telegram_url": "",
-        "twitter_username": "",
-        "instagram_username": "",
-        "contracts": [
-            {
-                "address": "0x4dcce8a1286a6b4174fed5e9e292ff73dd23def7",
                 "chain": "ethereum"
             }
         ]

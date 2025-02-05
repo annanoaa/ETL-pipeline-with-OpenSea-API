@@ -1,5 +1,86 @@
 [
     {
+        "collection": "galacticdragon",
+        "name": "GalacticDragon",
+        "description": "Draco, a cyberpunk dragon unlike any other. He is not just a guardian of the digital world\u2014he is a big dreamer with an extraordinary ambition: to become the first astronaut of his kind! \ud83c\udf0c\n\nWith shimmering blue scales, a fiery golden mohawk, and reflective sunglasses that mirror the beauty of the cosmos, Drake always gazes at the sky, dreaming of adventures among the stars. His sleek black leather jacket symbolizes courage and determination, while the glowing planets in the background hint that his dream is closer than ever to becoming a reality.\n\n\ud83d\ude80 A fearless explorer of the unknown\n\ud83c\udf0c Driven to break the boundaries of the galaxy\n\ud83d\udd25 An exclusive NFT for true visionaries\n\nAre you ready to add Draco to your collection and be part of his journey to the stars?",
+        "image_url": "https://i.seadn.io/s/raw/files/75048988a80f61f1cee1e8d241275d1e.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x4f3a319cd82c4ee41e9edbb8da9db53cc4f02dd6",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": true,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/galacticdragon",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x8cbd0183cb00d04df9705179459a9e3eb468d756",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "creation-of-humans",
+        "name": "Creation Of Humans",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/bdf8de98e57eba9164f28220c93c677b.png?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x0fb98664f1eb1aff43a3e79d6ac2ab98b5c8d106",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/creation-of-humans",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x4a5aa4bb11e3a63cf81b6f82a77487007f40b1a2",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
+        "collection": "kekius-maximus-19",
+        "name": "Kekius Maximus",
+        "description": "",
+        "image_url": "https://i.seadn.io/s/raw/files/fb27127e8c0ea9644ea112044171ddbf.jpg?w=500&auto=format",
+        "banner_image_url": "",
+        "owner": "0x413e716f26b3c89c4c4a39135d9a500c66eaf0e6",
+        "safelist_status": "not_requested",
+        "category": "",
+        "is_disabled": false,
+        "is_nsfw": false,
+        "trait_offers_enabled": false,
+        "collection_offers_enabled": true,
+        "opensea_url": "https://opensea.io/collection/kekius-maximus-19",
+        "project_url": "",
+        "wiki_url": "",
+        "discord_url": "",
+        "telegram_url": "",
+        "twitter_username": "",
+        "instagram_username": "",
+        "contracts": [
+            {
+                "address": "0x4dcce8a1286a6b4174fed5e9e292ff73dd23def7",
+                "chain": "ethereum"
+            }
+        ]
+    },
+    {
         "collection": "cozy-critter-club-1",
         "name": "Cozy Critter Club",
         "description": "The Cozy Critter Club is a heartwarming and whimsical NFT collection featuring charming animals dressed in cozy knitwear and colorful attire. Each critter embodies a unique blend of imagination and comfort, bringing playful personalities to life through vibrant colors and surreal designs. From bears in beanies to foxes in scarves, this collection offers a delightful escape into a world where nature meets fashion. Perfect for collectors seeking joy, creativity, and a touch of cozy magic in their digital art portfolios.",
@@ -432,19 +513,19 @@
         ]
     },
     {
-        "collection": "thetruth-4",
+        "collection": "thetruth96",
         "name": "TheTruth",
         "description": "",
-        "image_url": "https://i.seadn.io/s/raw/files/65c9bd082494ed8c3e87059d16a6adf0.png?w=500&auto=format",
+        "image_url": "https://i.seadn.io/s/raw/files/abec9efb79895bdb28772f15b83d55f8.png?w=500&auto=format",
         "banner_image_url": "",
         "owner": "0xd8b7dd562740e5aadc51671bc4637f807bf42556",
         "safelist_status": "not_requested",
-        "category": "",
+        "category": "art",
         "is_disabled": false,
         "is_nsfw": false,
         "trait_offers_enabled": false,
         "collection_offers_enabled": true,
-        "opensea_url": "https://opensea.io/collection/thetruth-4",
+        "opensea_url": "https://opensea.io/collection/thetruth96",
         "project_url": "",
         "wiki_url": "",
         "discord_url": "",
@@ -724,87 +805,6 @@
         "contracts": [
             {
                 "address": "0x4ed73dc6887ccc496e064f27434426e1258d0c71",
-                "chain": "ethereum"
-            }
-        ]
-    },
-    {
-        "collection": "drip-drop-studio-1",
-        "name": "Drip Drop Studio",
-        "description": "",
-        "image_url": "",
-        "banner_image_url": "",
-        "owner": "0xa45e0c8ddd4e37fc16ef72ceb7567a31a71e125b",
-        "safelist_status": "not_requested",
-        "category": "",
-        "is_disabled": false,
-        "is_nsfw": false,
-        "trait_offers_enabled": false,
-        "collection_offers_enabled": true,
-        "opensea_url": "https://opensea.io/collection/drip-drop-studio-1",
-        "project_url": "",
-        "wiki_url": "",
-        "discord_url": "",
-        "telegram_url": "",
-        "twitter_username": "",
-        "instagram_username": "",
-        "contracts": [
-            {
-                "address": "0x99dd863994e276e11a6c0fb7bee74317069970e7",
-                "chain": "ethereum"
-            }
-        ]
-    },
-    {
-        "collection": "trump-train-for-the-win",
-        "name": "Trump Train For The Win",
-        "description": "",
-        "image_url": "",
-        "banner_image_url": "",
-        "owner": "0xfb0c605120844b7e858d7b8024ffcd5fefb32d30",
-        "safelist_status": "not_requested",
-        "category": "",
-        "is_disabled": false,
-        "is_nsfw": false,
-        "trait_offers_enabled": false,
-        "collection_offers_enabled": false,
-        "opensea_url": "https://opensea.io/collection/trump-train-for-the-win",
-        "project_url": "",
-        "wiki_url": "",
-        "discord_url": "",
-        "telegram_url": "",
-        "twitter_username": "",
-        "instagram_username": "",
-        "contracts": [
-            {
-                "address": "0x3408743d76008da97a44a1afba8e474ecef69582",
-                "chain": "ethereum"
-            }
-        ]
-    },
-    {
-        "collection": "cosmic-migraine-1",
-        "name": "BONUS NFT [Cosmic Migraine collection] The Last Laugh",
-        "description": "You\u2019ve done it! After all the board meetings, court appearances, and endless galactic chaos, someone has finally stolen your crown! You\u2019re free! Free to live a life without scepters or star charts\u2014assuming you can outrun the hordes of aliens who aren\u2019t exactly thrilled about your abdication.\n\u201cThe Last Laugh\u201d is the ultimate bonus piece, available only to collectors who hold all four works in the \u201cCosmic Migraine\u201d collection. Because in the end, the galaxy always has the last laugh.\n",
-        "image_url": "https://i.seadn.io/s/raw/files/8e01d1251cedae67fc22bc0605dfb397.gif?w=500&auto=format",
-        "banner_image_url": "",
-        "owner": "0xb28077284a81b23bf4709ac326accb8142662cff",
-        "safelist_status": "not_requested",
-        "category": "",
-        "is_disabled": false,
-        "is_nsfw": false,
-        "trait_offers_enabled": false,
-        "collection_offers_enabled": true,
-        "opensea_url": "https://opensea.io/collection/cosmic-migraine-1",
-        "project_url": "https://orangehare.io/",
-        "wiki_url": "",
-        "discord_url": "",
-        "telegram_url": "",
-        "twitter_username": "OrangeHare_io",
-        "instagram_username": "",
-        "contracts": [
-            {
-                "address": "0x1cc4f9dc34a15fa6542e3bc84ed500243b3a4735",
                 "chain": "ethereum"
             }
         ]
